@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "302644648850",
+    "firebase_url": "https://homework-681c6.firebaseio.com",
+    "project_id": "homework-681c6",
+    "storage_bucket": "homework-681c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302644648850:android:d0031ae69fe977f5",
+        "android_client_info": {
+          "package_name": "com.insat.gl4.homeworktp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302644648850-9j4c4gt886ln81sesrcpv29v1tv2gs4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6HFcv_wWk-z04_WhrUel-hl7phVjNK_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302644648850:android:d5591ead3ad715a3",
+        "android_client_info": {
+          "package_name": "com.example.mysession.mobileproject_userinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302644648850-csdab81devaqpej7a7ihuh4o906t1stn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mysession.mobileproject_userinformation",
+            "certificate_hash": "c62c8663cf1daeb61462c36b38acbf53e68b1071"
+          }
+        },
+        {
+          "client_id": "302644648850-9j4c4gt886ln81sesrcpv29v1tv2gs4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6HFcv_wWk-z04_WhrUel-hl7phVjNK_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302644648850-9j4c4gt886ln81sesrcpv29v1tv2gs4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
